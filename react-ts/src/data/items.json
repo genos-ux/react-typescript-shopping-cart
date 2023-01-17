@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "name":"Bag",
+        "price" : 10.99,
+        "imgUrl" : "/imgs/wiser-by-the-mile-3o-X8WJOP5E-unsplash.jpg"
+    },
+
+    {
+        "id":2,
+        "name":"Computer",
+        "price" : 1199,
+        "imgUrl" : "/imgs/maxim-hopman-Hin-rzhOdWs-unsplash.jpg"
+    },
+    {
+        "id":3,
+        "name":"Car",
+        "price" : 10.99,
+        "imgUrl" : "/imgs/joshua-koblin-eqW1MPinEV4-unsplash.jpg"
+    },
+    {
+        "id":4,
+        "name":"Sneaker",
+        "price" : 10.99,
+        "imgUrl" : "/imgs/pexels-melvin-buezo-2529148.jpg"
+    },
+    {
+        "id":5,
+        "name":"PC Setup",
+        "price" : 10.99,
+        "imgUrl" : "/imgs/pexels-xxss-is-back-777001.jpg"
+    },
+    {
+        "id":6,
+        "name":"PC Setup",
+        "price" : 10.99,
+        "imgUrl" : "/imgs/pexels-xxss-is-back-777001.jpg"
+    }
+
+]
